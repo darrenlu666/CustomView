@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MySmartRefreshLayout</string>
+    <string name="app_name">PickRedBagDemo</string>
+    <string name="label">这是一个可以自动抢红包的服务</string>
 </resources>
